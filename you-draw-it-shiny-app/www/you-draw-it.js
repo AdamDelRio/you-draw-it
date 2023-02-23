@@ -263,7 +263,7 @@ function draw_rectangle({svg, drawable_points, line_data, draw_start, width, hei
       .attr("height", state.h)
       //.style("fill", "#e0f3f3")
       .style("fill-opacity", 0.4)
-      .style("fill", "rgba(255,255,0,.8)")
+      .style("fill", "rgba(255,165,0,.8)")
   
 }
 
